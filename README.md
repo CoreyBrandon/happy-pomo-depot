@@ -1,1 +1,1 @@
-## [Pomodoro Timer](https://coreybrandon.github.io/happy-pomo-depot/)
+## [Pomodoro Timer](https://coreybrandon.github.io/focus-project/)
